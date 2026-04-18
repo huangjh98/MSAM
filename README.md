@@ -11,7 +11,7 @@ numpy 1.21.6
 
 --------------------------
 ## Dataset
-We use the following 2 datasets: USRD Video-Text Dataset and UMCRD Video-Text Dataset. [Dataset download link](https://pan.baidu.com/)
+We use the following 2 datasets: USRD Video-Text Dataset and UMCRD Video-Text Dataset. [Dataset download link](https://pan.baidu.com/s/1VUV4qSlHD-ymexqGqdEbSQ?pwd=xbxd)
 --------------------------
 ## Train
 
